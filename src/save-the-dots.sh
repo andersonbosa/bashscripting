@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # author: @andersonbosa <@t4inha>
 # purpose
-#   facilitar a cópia dos arquivos + comuns de configuração :)
+#   to make easy backup common files :)
 # license: copyleft
 
 function get_usage() {
