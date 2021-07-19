@@ -5,4 +5,4 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/andersonbosa/bashscripting.svg)](https://GitHub.com/andersonbosa/bashscripting/graphs/contributors/)
 
 
-> Personal collection of snippets created during the life or spme necessity (e.g., laziness).
+- Personal collection of snippets created during the life or necessity. The purpose is share some of my knowlegde and view about BASH.
