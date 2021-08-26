@@ -2,7 +2,8 @@
 # author: https://github.com/andersonbosa <aka @t4inha>
 # purpose
 #   to make easy backup common files :)
-#
+# tip:
+#   see ./autorun_backup.sh
 # license: https://unlicense.org/
 ###################################################################
 
